@@ -1,0 +1,158 @@
+		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+Enter Employee Name: 
+Enter Employee Join Date info:
+Enter Day: 
+Enter Month: 
+Enter Year: 
+Enter basic wage :Set Employee Working hrs :		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+
+*************************************
+
+
+Employee Details are
+Employee ID is 0
+Employee Name is String is : Programmer
+String len is : 11
+
+Employess Join Data is 12/8/1947
+Basic salary is 250
+Working hrs is 9
+Total Salary is 2250
+		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+Enter Updated Salary amount: 		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+
+*************************************
+
+
+Employee Details are
+Employee ID is 0
+Employee Name is String is : Programmer
+String len is : 11
+
+Employess Join Data is 12/8/1947
+Basic salary is 450
+Working hrs is 9
+Total Salary is 4050
+		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+Employee Salary is 4050
+		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+Enter Employee Name: 
+Enter Employee Join Date info:
+Enter Day: 
+Enter Month: 
+Enter Year: 
+Enter basic wage :Set Employee Working hrs :
+*************************************
+
+
+Employee Details are
+Employee ID is 1
+Employee Name is String is : Coder
+String len is : 6
+
+Employess Join Data is 17/8/2020
+Basic salary is 500
+Working hrs is 4
+Total Salary is 2000
+		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+
+*************************************
+
+
+Employee Details are
+Employee ID is 1
+Employee Name is String is : Coder
+String len is : 6
+
+Employess Join Data is 17/8/2020
+Basic salary is 500
+Working hrs is 4
+Total Salary is 2000
+		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+
+*************************************
+
+
+Employee Details are
+Employee ID is 2
+Employee Name is String is : 
+String len is : 0
+
+Employess Join Data is 0/0/0
+Basic salary is 10000
+Working hrs is 1
+Total Salary is 10000
+		***** Menu *****
+1) Set Employee Data
+2) Display Employee Data
+3) Update Employee Basic Salary
+4) Calculate Total Salary
+5) Set Employee Data using Parent Class pointer 
+6) Display Employee Data using Parent Class pointer 
+7) Create New CWageEmployee Object
+8) Exit
+BYE
